@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BookshelfApp</string>
+    <string name="loading">loading</string>
+    <string name="reload_page">Retry</string>
+    <string name="loading_failed">loading failed</string>
+    <string name="error">An Error Occurred</string>
+    <string name="book_cover">Book cover</string>
+    <string name="network_error">Network Error</string>
+    <string name="error_code_response">Error code : 400, No query found.</string>
+</resources>
